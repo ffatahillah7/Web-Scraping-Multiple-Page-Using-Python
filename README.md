@@ -2,6 +2,7 @@
 Extract data and content from an online store
 
 The Purpose of this project is to scraping data from multiple page online store and load it to csv file. Using several libraly of Python such as pandas, Requests and BeautifulSoup.
+We scraping the online store website. Filter it for Iphone Product with 3 star Above.
 
 Please check the python file for better understanding.
 
