@@ -17,7 +17,7 @@ Please check the python file for better understanding.
 2. Knowledge of html language.
 3. inspect the website.
 4. Keep the class or div class value for specific text.
-5. discover the text do you want to take. For this project we will find Title, Price and Rating of a book at book store.
+5. discover the text do you want to take. For this project we will find Title, Price, Description, Total Rating and reviews and Rating star of iphone at flipkart online store.
 6. Define an empty variable for append the looping data.
 7. Create looping for get request to multiple page. We get for 10 pages.
 8. print using BeautifulSoup for better format text.
